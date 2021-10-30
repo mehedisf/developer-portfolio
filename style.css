@@ -2,6 +2,9 @@ body{
     font-family: 'Poppins', sans-serif;
     margin: 0;
 }
+h1{
+    font-size:50px;
+}
 .only-one{
     color: orange;
 }
@@ -26,4 +29,10 @@ section{
 .top-banner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+.dream-big{
+    padding-top:10%;
+    background-image:url(images/dream-bg.png);
+    background-repeat:no-repeat;
+    background-position:right;
 }
